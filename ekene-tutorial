@@ -1,1 +1,23 @@
+1. Data types - the way data/information is stored
+  - Strings  = "This is a string"
+  - Integers = 3
+  - Float = 3.50
+  - Arrays = [key: value]
+  - Lists
+  - Dictionary = {key: value}
+
+2. Conditionals
+    - If
+    - else if
+    - else
+
+3. Loops
+    - For
+    - While
+
+4. Functions
+
+5. Classes (Object oriented programming)
+
+
 
